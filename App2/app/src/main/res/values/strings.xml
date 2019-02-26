@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Canal Defect</string>
+    <string name="permission_info">Storage Permissions are required</string>
+    <string name="what_did">What did you observe?</string>
+    <string name="when_did">When did you observe?</string>
+    <string name="attachment">Attach File</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="report_title">Report Form</string>
+    <string name="pdf_generate">Pdf generated successfully</string>
+    <string name="complaint_no">Complaint No</string>
+    <string name="key_code">key_code</string>
+    <string name="code">code</string>
+</resources>
